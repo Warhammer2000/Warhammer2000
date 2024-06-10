@@ -25,7 +25,14 @@
 - ⚡ Fun fact: **I am an Arduino Enthusiast and love creating electronic projects.**
 
 ---
+### 🏆 My Achievements
 
+![GitHub Stars](https://img.shields.io/github/stars/warhammer2000?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/warhammer2000?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/warhammer2000?style=social)
+![GitHub Visitors](https://komarev.com/ghpvc/?username=warhammer2000&label=Profile%20views&color=0e75b6&style=flat)
+
+---
 ### 🛠 My Skills & Tools
 
 <p align="center">
