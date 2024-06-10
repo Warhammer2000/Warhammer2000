@@ -85,10 +85,6 @@
 </p>
 
 ---
-### 📊 My GitHub Contributions
-
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=warhammer2000&hide_title=true&layout=compact&theme=dark)
-
 ### 📫 Connect with Me
 
 <p align="center">
