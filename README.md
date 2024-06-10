@@ -57,14 +57,6 @@
 
 ---
 
-### 🏙️ My GitHub Skyline
-
-[![GitHub Skyline](https://skyline.github.com/warhammer2000/2023)](https://skyline.github.com/warhammer2000/2023)
-
-Explore my GitHub contributions in 3D with GitHub Skyline! Click the image to interact with it.
-
----
-
 ### 🏆 My Achievements
 
 ![GitHub Stars](https://img.shields.io/github/stars/warhammer2000?style=social)
