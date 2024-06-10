@@ -66,14 +66,6 @@
 
 ---
 
-### 📅 My GitHub Activity Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=warhammer2000&theme=react-dark&hide_border=true&area=true" alt="warhammer2000's GitHub Activity Graph" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
