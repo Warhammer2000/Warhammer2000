@@ -87,3 +87,17 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="498897412765777920" height="30" width="40" />
   </a>
 </p>
+
+### 🕹️ Interactive SVG Game
+
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="black" />
+  <circle id="ball" cx="50" cy="50" r="10" fill="white">
+    <animate
+      attributeName="cx"
+      values="10;90;10"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+  </circle>
+</svg>
