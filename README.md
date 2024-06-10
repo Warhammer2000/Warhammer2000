@@ -57,16 +57,27 @@
 
 ---
 
-### 🏆 My GitHub Stats
+### 🏙️ My GitHub Skyline
+
+[![GitHub Skyline](https://skyline.github.com/warhammer2000/2023)](https://skyline.github.com/warhammer2000/2023)
+
+Explore my GitHub contributions in 3D with GitHub Skyline! Click the image to interact with it.
+
+---
+
+### 🏆 My Achievements
+
+![GitHub Stars](https://img.shields.io/github/stars/warhammer2000?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/warhammer2000?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/warhammer2000?style=social)
+![GitHub Visitors](https://komarev.com/ghpvc/?username=warhammer2000&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+### 📅 My GitHub Activity Calendar
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warhammer2000&show_icons=true&theme=dark" alt="warhammer2000's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warhammer2000&theme=dark" alt="warhammer2000's streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=warhammer2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="warhammer2000's top languages" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=warhammer2000&theme=react-dark&hide_border=true&area=true" alt="warhammer2000's GitHub Activity Graph" />
 </p>
 
 ---
@@ -88,16 +99,16 @@
   </a>
 </p>
 
-### 🕹️ Interactive SVG Game
+---
 
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="black" />
-  <circle id="ball" cx="50" cy="50" r="10" fill="white">
-    <animate
-      attributeName="cx"
-      values="10;90;10"
-      dur="2s"
-      repeatCount="indefinite"
-    />
-  </circle>
-</svg>
+### 🏆 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=warhammer2000&show_icons=true&theme=dark" alt="warhammer2000's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warhammer2000&theme=dark" alt="warhammer2000's streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=warhammer2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="warhammer2000's top languages" />
+</p>
