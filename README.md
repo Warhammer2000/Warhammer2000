@@ -57,12 +57,17 @@
 
 ---
 
-### 🏆 My Achievements
+### 🏆 My GitHub Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/warhammer2000?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/warhammer2000?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/warhammer2000?style=social)
-![GitHub Visitors](https://komarev.com/ghpvc/?username=warhammer2000&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=warhammer2000&show_icons=true&theme=dark" alt="warhammer2000's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warhammer2000&theme=dark" alt="warhammer2000's streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=warhammer2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="warhammer2000's top languages" />
+</p>
 
 ---
 
@@ -81,18 +86,4 @@
   <a href="https://discord.gg/498897412765777920" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="498897412765777920" height="30" width="40" />
   </a>
-</p>
-
----
-
-### 🏆 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warhammer2000&show_icons=true&theme=dark" alt="warhammer2000's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warhammer2000&theme=dark" alt="warhammer2000's streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=warhammer2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="warhammer2000's top languages" />
 </p>
