@@ -25,6 +25,15 @@
 - ⚡ Fun fact: **I am an Arduino Enthusiast and love creating electronic projects.**
 
 ---
+### 🛠 My Technology Stack
+
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?&logo=.NET&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=Microsoft-SQL-Server&logoColor=white)
+
+
 ### 🏆 My Achievements
 
 ![GitHub Stars](https://img.shields.io/github/stars/warhammer2000?style=social)
