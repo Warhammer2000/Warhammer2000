@@ -92,7 +92,7 @@
   <a href="https://dev.to/warhammer2000" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="warhammer2000" height="30" width="40" />
   </a>
-  <a href="[https://linkedin.com/in/rustam pulatov](https://www.linkedin.com/in/rustam-pulatov-92abbb251/)" target="blank">
+  <a href="https://www.linkedin.com/in/rustam-pulatov-92abbb251/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rustam pulatov" height="30" width="40" />
   </a>
   <a href="https://discord.gg/498897412765777920" target="blank">
