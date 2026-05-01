@@ -178,11 +178,56 @@ flowchart LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=warhammer2000&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" />
 </p>
 
+### 🌆 My Year in 3D
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</p>
+
+### 🧬 Deep Stats — Powered by Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/main/metrics.svg" alt="metrics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/main/metrics.achievements.svg" alt="achievements" width="49%" />
+  <img src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/main/metrics.habits.svg" alt="coding habits" width="49%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+## 🎮 Watch My GitHub Play Games
+
+> Each animation below is **auto-generated daily from my real contribution graph** by GitHub Actions. Same data — three different games. Pick your fighter.
+
+### 🐍 Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+### 🟡 Pac-Man
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/output-pacman/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/output-pacman/pacman-contribution-graph.svg" />
+    <img alt="pacman animation eating my contribution graph" src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/output-pacman/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+</p>
+
+### 🧱 Breakout
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/github-breakout/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/github-breakout/images/breakout-light.svg" />
+    <img alt="breakout animation breaking my contribution graph" src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/github-breakout/images/breakout-light.svg" width="100%" />
   </picture>
 </p>
 

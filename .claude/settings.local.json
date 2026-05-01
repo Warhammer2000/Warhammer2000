@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git -C D:/Warhammer2000 status)"
+      "Bash(git -C D:/Warhammer2000 status)",
+      "Bash(git -C D:/Warhammer2000 ls-files .github/)",
+      "Bash(git -C D:/Warhammer2000 check-ignore -v .github/workflows/snake.yml)"
     ]
   }
 }
