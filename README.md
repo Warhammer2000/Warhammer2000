@@ -240,8 +240,11 @@ flowchart LR
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rustam-pulatov-92abbb251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/Warhammer2000/Warhammer2000/main/assets/linkedin-card.svg" width="520" alt="Rustam Pulatov — .NET Backend Developer @ Vention — LinkedIn" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:rustam.r2005@gmail.com">
     <img src="https://img.shields.io/badge/rustam.r2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
