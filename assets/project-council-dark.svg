@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="176" viewBox="0 0 420 176" role="img" aria-labelledby="title" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title id="title">Consilium council (claude-plugins) — Ask a hard question, get a council: 2–6 sub-agents locked to opposing stances, blind to each other, with anti-sycophancy guards, then an honest synthesis.</title>
+<rect x="0.5" y="0.5" width="419" height="175" rx="14" fill="#0f141b" stroke="#2b333d" stroke-width="1"/>
+<rect x="20" y="20" width="40" height="40" rx="10" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-width="1" stroke-opacity="0.35"/>
+<path d="M40 30.5 L30.5 47.5 L49.5 47.5 Z" fill="none" stroke="#a78bfa" stroke-width="1.4" stroke-opacity="0.55" stroke-linejoin="round"/><circle cx="40" cy="30.5" r="4" fill="#a78bfa"/><circle cx="30.5" cy="47.5" r="4" fill="#a78bfa"/><circle cx="49.5" cy="47.5" r="4" fill="#a78bfa"/><circle cx="40" cy="42" r="2.2" fill="#a78bfa" fill-opacity="0.7"/>
+<text x="74" y="39" font-size="17" font-weight="700" letter-spacing="-0.2" fill="#e6edf3">Consilium council</text>
+<text x="74" y="57.5" font-size="11.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" fill="#9198a1">claude-plugins</text>
+<rect x="312.5" y="21" width="87.5" height="22" rx="11" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-width="1" stroke-opacity="0.45"/>
+<text x="321.5" y="35.8" font-size="10.5" font-weight="700" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" fill="#a78bfa">CLAUDE CODE</text>
+<text x="20" y="93" font-size="13.5" fill="#c3ccd5">Ask a hard question, get a council: 2–6 sub-agents locked to</text>
+<text x="20" y="112.5" font-size="13.5" fill="#c3ccd5">opposing stances, blind to each other, with anti-sycophancy</text>
+<text x="20" y="132" font-size="13.5" fill="#c3ccd5">guards, then an honest synthesis.</text>
+<circle cx="26" cy="151.5" r="5" fill="#a78bfa"/>
+<text x="37" y="156" font-size="12" font-weight="500" fill="#9198a1">Plugin</text>
+<text x="83.9" y="156" font-size="11.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" fill="#6e7681">multi-agent · /council-tech</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="176" viewBox="0 0 420 176" role="img" aria-labelledby="title" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title id="title">Kafka hands-on (kafka-na-palcah) — Apache Kafka explained with demos you can click: partitions, offsets, consumer groups, lag, ISR and rebalances. Fifteen chapters, RU / EN, zero dependencies.</title>
+<rect x="0.5" y="0.5" width="419" height="175" rx="14" fill="#0f141b" stroke="#2b333d" stroke-width="1"/>
+<rect x="20" y="20" width="40" height="40" rx="10" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.35"/>
+<rect x="28" y="30" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="0.47"/><rect x="34.5" y="30" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="0.65"/><rect x="41" y="30" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="0.82"/><rect x="47.5" y="30" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="1.0"/><rect x="28" y="37.5" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="0.53"/><rect x="34.5" y="37.5" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="0.77"/><rect x="41" y="37.5" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="1.0"/><rect x="28" y="45" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="0.47"/><rect x="34.5" y="45" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="0.65"/><rect x="41" y="45" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="0.82"/><rect x="47.5" y="45" width="5" height="5" rx="1.2" fill="#58a6ff" fill-opacity="1.0"/>
+<text x="74" y="39" font-size="17" font-weight="700" letter-spacing="-0.2" fill="#e6edf3">Kafka hands-on</text>
+<text x="74" y="57.5" font-size="11.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" fill="#9198a1">kafka-na-palcah</text>
+<rect x="314.1" y="21" width="85.9" height="22" rx="11" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="326.1" cy="32" r="3" fill="#3fb950"/>
+<text x="334.1" y="35.8" font-size="10.5" font-weight="700" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" fill="#3fb950">LIVE DEMO</text>
+<text x="20" y="93" font-size="13.5" fill="#c3ccd5">Apache Kafka explained with demos you can click:</text>
+<text x="20" y="112.5" font-size="13.5" fill="#c3ccd5">partitions, offsets, consumer groups, lag, ISR and</text>
+<text x="20" y="132" font-size="13.5" fill="#c3ccd5">rebalances. Fifteen chapters, RU / EN, zero dependencies.</text>
+<circle cx="26" cy="151.5" r="5" fill="#f1e05a"/>
+<text x="37" y="156" font-size="12" font-weight="500" fill="#9198a1">JavaScript</text>
+<text x="110" y="156" font-size="11.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" fill="#6e7681">interactive · no build step</text>
+</svg>

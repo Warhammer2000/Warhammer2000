@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" role="img" aria-labelledby="title" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title id="title">Tech stack — Backend: C#, .NET 8, ASP.NET Core, EF Core, REST, Microservices; Azure: Functions, Service Bus, API Management, Blob Storage; Data: SQL Server, PostgreSQL, MySQL, Oracle, Redis, MongoDB, Kafka; AI / LLM: OpenAI, LangChain, RAG, Embeddings, NLP, GPT fine-tuning, MCP, Python; Architecture: Clean Architecture, DDD, CQRS, Event-Driven, SOLID; Tooling: Docker, Linux, Bash, Git, GitHub Actions; Also: TypeScript, JavaScript, C++, Unity, Xamarin</title>
+<rect x="0.5" y="0.5" width="849" height="359" rx="14" fill="#0f141b" stroke="#2b333d" stroke-width="1"/>
+<circle cx="28" cy="39" r="4" fill="#58a6ff"/>
+<text x="40" y="43" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" letter-spacing="0.8" fill="#9198a1">BACKEND</text>
+<rect x="170" y="24" width="41.7" height="30" rx="8" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.55"/>
+<text x="190.9" y="43.7" font-size="13.5" font-weight="600" text-anchor="middle" fill="#e6edf3">C#</text>
+<rect x="219.7" y="24" width="67" height="30" rx="8" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.55"/>
+<text x="253.2" y="43.7" font-size="13.5" font-weight="600" text-anchor="middle" fill="#e6edf3">.NET 8</text>
+<rect x="294.7" y="24" width="116" height="30" rx="8" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.55"/>
+<text x="352.7" y="43.7" font-size="13.5" font-weight="600" text-anchor="middle" fill="#e6edf3">ASP.NET Core</text>
+<rect x="418.7" y="24" width="73.1" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="455.2" y="43.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">EF Core</text>
+<rect x="499.8" y="24" width="59.1" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="529.4" y="43.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">REST</text>
+<rect x="566.9" y="24" width="109.6" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="621.7" y="43.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Microservices</text>
+<path d="M24 62.5 H826" stroke="#21272f" stroke-width="1"/>
+<circle cx="28" cy="86" r="4" fill="#a78bfa"/>
+<text x="40" y="90" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" letter-spacing="0.8" fill="#9198a1">AZURE</text>
+<rect x="170" y="71" width="86.9" height="30" rx="8" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-width="1" stroke-opacity="0.55"/>
+<text x="213.5" y="90.7" font-size="13.5" font-weight="600" text-anchor="middle" fill="#e6edf3">Functions</text>
+<rect x="264.9" y="71" width="100" height="30" rx="8" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-width="1" stroke-opacity="0.55"/>
+<text x="314.9" y="90.7" font-size="13.5" font-weight="600" text-anchor="middle" fill="#e6edf3">Service Bus</text>
+<rect x="372.9" y="71" width="126.2" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="436" y="90.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">API Management</text>
+<rect x="507.1" y="71" width="101.2" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="557.7" y="90.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Blob Storage</text>
+<path d="M24 109.5 H826" stroke="#21272f" stroke-width="1"/>
+<circle cx="28" cy="133" r="4" fill="#3fb950"/>
+<text x="40" y="137" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" letter-spacing="0.8" fill="#9198a1">DATA</text>
+<rect x="170" y="118" width="97.4" height="30" rx="8" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-width="1" stroke-opacity="0.55"/>
+<text x="218.7" y="137.7" font-size="13.5" font-weight="600" text-anchor="middle" fill="#e6edf3">SQL Server</text>
+<rect x="275.4" y="118" width="97.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="324.1" y="137.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">PostgreSQL</text>
+<rect x="380.9" y="118" width="69.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="415.5" y="137.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">MySQL</text>
+<rect x="458.2" y="118" width="62.5" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="489.5" y="137.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Oracle</text>
+<rect x="528.7" y="118" width="57.6" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="557.5" y="137.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Redis</text>
+<rect x="594.3" y="118" width="82" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="635.3" y="137.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">MongoDB</text>
+<rect x="684.4" y="118" width="59.1" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="713.9" y="137.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Kafka</text>
+<path d="M24 156.5 H826" stroke="#21272f" stroke-width="1"/>
+<circle cx="28" cy="180" r="4" fill="#f778ba"/>
+<text x="40" y="184" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" letter-spacing="0.8" fill="#9198a1">AI / LLM</text>
+<rect x="170" y="165" width="66.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="203.2" y="184.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">OpenAI</text>
+<rect x="244.4" y="165" width="87.9" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="288.3" y="184.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">LangChain</text>
+<rect x="340.2" y="165" width="51.6" height="30" rx="8" fill="#f778ba" fill-opacity="0.12" stroke="#f778ba" stroke-width="1" stroke-opacity="0.55"/>
+<text x="366.1" y="184.7" font-size="13.5" font-weight="600" text-anchor="middle" fill="#e6edf3">RAG</text>
+<rect x="399.9" y="165" width="97" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="448.4" y="184.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Embeddings</text>
+<rect x="504.9" y="165" width="50.3" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="530.1" y="184.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">NLP</text>
+<rect x="563.2" y="165" width="118.2" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="622.4" y="184.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">GPT fine-tuning</text>
+<rect x="689.5" y="165" width="53.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="716.2" y="184.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">MCP</text>
+<rect x="750.9" y="165" width="66.3" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="784" y="184.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Python</text>
+<path d="M24 203.5 H826" stroke="#21272f" stroke-width="1"/>
+<circle cx="28" cy="227" r="4" fill="#e3b341"/>
+<text x="40" y="231" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" letter-spacing="0.8" fill="#9198a1">ARCHITECTURE</text>
+<rect x="170" y="212" width="135.8" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="237.9" y="231.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Clean Architecture</text>
+<rect x="313.8" y="212" width="50.3" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="338.9" y="231.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">DDD</text>
+<rect x="372.1" y="212" width="59.1" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="401.7" y="231.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">CQRS</text>
+<rect x="439.2" y="212" width="102.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="490.4" y="231.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Event-Driven</text>
+<rect x="549.6" y="212" width="62.5" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="580.9" y="231.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">SOLID</text>
+<path d="M24 250.5 H826" stroke="#21272f" stroke-width="1"/>
+<circle cx="28" cy="274" r="4" fill="#58a6ff"/>
+<text x="40" y="278" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" letter-spacing="0.8" fill="#9198a1">TOOLING</text>
+<rect x="170" y="259" width="66.3" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="203.1" y="278.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Docker</text>
+<rect x="244.3" y="259" width="57.6" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="273.1" y="278.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Linux</text>
+<rect x="309.9" y="259" width="54.2" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="337" y="278.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Bash</text>
+<rect x="372.1" y="259" width="41" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="392.6" y="278.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Git</text>
+<rect x="421.1" y="259" width="113.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="477.8" y="278.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">GitHub Actions</text>
+<path d="M24 297.5 H826" stroke="#21272f" stroke-width="1"/>
+<circle cx="28" cy="321" r="4" fill="#6e7681"/>
+<text x="40" y="325" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" letter-spacing="0.8" fill="#9198a1">ALSO</text>
+<rect x="170" y="306" width="90.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="215.2" y="325.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">TypeScript</text>
+<rect x="268.4" y="306" width="90.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="313.6" y="325.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">JavaScript</text>
+<rect x="366.8" y="306" width="48.4" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="391.1" y="325.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">C++</text>
+<rect x="423.3" y="306" width="55.3" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="450.9" y="325.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Unity</text>
+<rect x="486.6" y="306" width="73.3" height="30" rx="8" fill="#151b23" stroke="#2f3742" stroke-width="1"/>
+<text x="523.2" y="325.7" font-size="13.5" font-weight="500" text-anchor="middle" fill="#c3ccd5">Xamarin</text>
+</svg>
